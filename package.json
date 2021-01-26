@@ -20,6 +20,7 @@
   "author": "Martand Singh (sniffer)",
   "license": "MIT",
   "dependencies": {
-    "request": "^2.87.0"
+    "request": "^2.87.0",
+    "requests": "^0.3.0"
   }
 }
